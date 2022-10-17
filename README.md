@@ -20,7 +20,7 @@ Maka hasilnya seperti ini
 jika melalui CMD maka harus masuk ke folder file python berada dan ketikan nama file tersebut seperti pada gambar
 ![Gambar 6](screnshoot/ss6.png)
 Maka hasilnya seperti ini
-![Gambar 7](screnshoot/ss7.png) <br />
+![Gambar 7](screnshoot/ss7.png)
 ### Latihan 2 Menjumlahkan dua buah bilangan menggunakan variabel a dan b
 Buat file baru untuk latihan 2 
 ![Gambar 8](screnshoot/ss8.png)
