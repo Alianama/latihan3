@@ -22,10 +22,10 @@ jika melalui CMD maka harus masuk ke folder file python berada dan ketikan nama 
 Maka hasilnya seperti ini
 ![Gambar 7](screnshoot/ss7.png)
 ### Latihan 2 Menjumlahkan dua buah bilangan menggunakan variabel a dan b
-Buat file baru untuk latihan 2
-![Gambar 8](screnshoot/ss8.png)
-Masukan variabel untuk a dan b
-![Gambar 9](screnshoot/ss9.png)
+Buat file baru untuk latihan 2 <br />
+![Gambar 8](screnshoot/ss8.png) <br />
+Masukan variabel untuk a dan b<br />
+![Gambar 9](screnshoot/ss9.png)<br />
 Masukan perintah print untuk tampilkan hasil dari penjumlahan a dan b seperti pada gambar
 ![Gambar 10](screnshoot/ss10.png)
 Jalankan program dengan cara yang sama seperti pada latihan 1 dan hasilnya seperti ini
