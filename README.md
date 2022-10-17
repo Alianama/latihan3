@@ -22,7 +22,7 @@ jika melalui CMD maka harus masuk ke folder file python berada dan ketikan nama 
 Maka hasilnya seperti ini
 ![Gambar 7](screnshoot/ss7.png)
 ### Latihan 2 Menjumlahkan dua buah bilangan menggunakan variabel a dan b
-Buat file baru untuk latihan 2 
+Buat file baru untuk latihan 2
 ![Gambar 8](screnshoot/ss8.png)
 Masukan variabel untuk a dan b
 ![Gambar 9](screnshoot/ss9.png)
