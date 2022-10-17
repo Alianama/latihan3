@@ -26,12 +26,12 @@ Buat file baru untuk latihan 2 <br />
 ![Gambar 8](screnshoot/ss8.png) <br />
 Masukan variabel untuk a dan b<br />
 ![Gambar 9](screnshoot/ss9.png)<br />
-Masukan perintah print untuk tampilkan hasil dari penjumlahan a dan b seperti pada gambar
-![Gambar 10](screnshoot/ss10.png)
-Jalankan program dengan cara yang sama seperti pada latihan 1 dan hasilnya seperti ini
-![Gambar 11](screnshoot/ss11.png)
-Ini untuk tampilan pada CMD
-![Gambar 12](screnshoot/ss12.png)
+Masukan perintah print untuk tampilkan hasil dari penjumlahan a dan b seperti pada gambar <br />
+![Gambar 10](screnshoot/ss10.png)<br />
+Jalankan program dengan cara yang sama seperti pada latihan 1 dan hasilnya seperti ini<br />
+![Gambar 11](screnshoot/ss11.png)<br />
+Ini untuk tampilan pada CMD<br />
+![Gambar 12](screnshoot/ss12.png)<br />
 ### Latihan 3 
 
 
