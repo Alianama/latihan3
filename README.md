@@ -42,7 +42,31 @@ Pertama masukan variabel di ikuti dengan printah input untuk memasukan nilai var
 ![Gambar 15](screnshoot/ss15.png)<br />
 Selanjutnya tampilkan di layar nilai variabel yang telah di inputkan seperti pada gambar
 ![Gambar 16](screnshoot/ss16.png)<br />
-lalu Cetak kedua variabel dengan format string
+lalu Cetak kedua variabel dan gabungkan dengan format string <br />
+Disini saya menggunakan fungsi generic dan format agar bisa gabungkan 2 angka <br />
+Pertama buat format terlebih dahulu <br /> 
+disini saya memasukan  format_string = f" Hasil penggabungan a dan b adalah ={a}{b}" fungsinya kita membuat format baru dengan  menggunakan f(format) di ikuti dengan kalimat yang ingin di tampilkan dan tarik data variabel untuk di gabungkan seperti pada gambar 
+![Gambar 17](screnshoot/ss17.png)<br />
+Untuk menampilkan hasilnya kita lakukan printah print ke format yang telah di buat tadi Maka hasilnya seperti ini
+![Gambar 18](screnshoot/ss18.png)<br />
+Lanjut ke konversi variabel <br />
+Disini kita ubah dulu untuk variabel a dan be ke integer seperti pada gambar
+![Gambar 19](screnshoot/ss19.png)<br />
+Jika sudah maka disini saya melakukan 2 pengolahan yaitu penjumlahan dan pembagian caranya sama seperti pada penggabungan di atas namun bedanya kita tambahkan operator penjumlahan dan pembagian seperti pada gambar <br />
+![Gambar 20](screnshoot/ss20.png)<br />
+Dan untuk menampilkan hasilnya lakukan dengan perintah print ke format yang telah dibuat dan hasilnya seperti ini <br />
+![Gambar 21](screnshoot/ss21.png)<br />
+
+
+
+
+
+
+
+
+
+
+
 
 
 
