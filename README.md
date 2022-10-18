@@ -56,6 +56,11 @@ Jika sudah maka disini saya melakukan 2 pengolahan yaitu penjumlahan dan pembagi
 ![Gambar 20](screnshoot/ss20.png)<br />
 Dan untuk menampilkan hasilnya lakukan dengan perintah print ke format yang telah dibuat dan hasilnya seperti ini <br />
 ![Gambar 21](screnshoot/ss21.png)<br />
+Dan ini untuk hasil pada CMD <br />
+![Gambar 22](screnshoot/ss22.png)<br />
+
+# Selesai dan Terima kasih ☻ ☺
+
 
 
 
