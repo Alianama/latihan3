@@ -32,7 +32,7 @@ Jalankan program dengan cara yang sama seperti pada latihan 1 dan hasilnya seper
 ![Gambar 11](screnshoot/ss11.png)<br />
 Ini untuk tampilan pada CMD<br />
 ![Gambar 12](screnshoot/ss12.png)<br />
-### Latihan 3 MEnjalankan IDLE
+### Latihan 3 Menjalankan IDLE
 Karna pada latihan 1 dan Latihan 2 di atas saya menggunakan Vscode jadi saya Download terlebih dahulu PyCharm nya di https://www.jetbrains.com/pycharm/download lalu install seperti biasa ☺
 ![Gambar 13](screnshoot/ss13.png)<br />
 Jika sudah terinstall buka aplikasinya dan buat project baru Lab2py dengan nama file Latihan3.py
