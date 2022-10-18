@@ -59,7 +59,7 @@ Dan untuk menampilkan hasilnya lakukan dengan perintah print ke format yang tela
 Dan ini untuk hasil pada CMD <br />
 ![Gambar 22](screnshoot/ss22.png)<br />
 
-# Selesai dan Terima kasih ☻ ☺
+# Selesai dan Terima kasih  ☺
 
 
 
