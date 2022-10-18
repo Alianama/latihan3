@@ -16,7 +16,7 @@ Untuk menjalankan nya bisa melalui VScode atau CMD <br />
 Jika melalui VScode bisa dengan menekan tombol play di pojok kanan atas
 ![Gambar 4](screnshoot/ss4.png)
 Maka hasilnya seperti ini
-![Gambar 5](screnshoot/ss5.png)
+![Gambar 5](screnshoot/ss5.png)<br />
 jika melalui CMD maka harus masuk ke folder file python berada dan ketikan nama file tersebut seperti pada gambar
 ![Gambar 6](screnshoot/ss6.png)
 Maka hasilnya seperti ini
@@ -32,7 +32,23 @@ Jalankan program dengan cara yang sama seperti pada latihan 1 dan hasilnya seper
 ![Gambar 11](screnshoot/ss11.png)<br />
 Ini untuk tampilan pada CMD<br />
 ![Gambar 12](screnshoot/ss12.png)<br />
-### Latihan 3 
+### Latihan 3 MEnjalankan IDLE
+Karna pada latihan 1 dan Latihan 2 di atas saya menggunakan Vscode jadi saya Download terlebih dahulu PyCharm nya di https://www.jetbrains.com/pycharm/download lalu install seperti biasa ☺
+![Gambar 13](screnshoot/ss13.png)<br />
+Jika sudah terinstall buka aplikasinya dan buat project baru Lab2py dengan nama file Latihan3.py
+![Gambar 14](screnshoot/ss14.png)<br />
+Jika sudah lanjut ke pengkodingan dan gunakan fungsi input dari keyboard <br />
+Pertama masukan variabel di ikuti dengan printah input untuk memasukan nilai variabel seperti pada gambar
+![Gambar 15](screnshoot/ss15.png)<br />
+Selanjutnya tampilkan di layar nilai variabel yang telah di inputkan seperti pada gambar
+![Gambar 16](screnshoot/ss16.png)<br />
+lalu Cetak kedua variabel dengan format string
+
+
+
+
+
+
 
 
 
